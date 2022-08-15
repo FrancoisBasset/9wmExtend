@@ -5,4 +5,5 @@ char *get_date(void);
 void refresh(char *date);
 
 void draw_panel(void);
+void draw_firefox_button(void);
 #endif
